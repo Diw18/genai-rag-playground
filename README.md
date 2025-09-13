@@ -7,7 +7,7 @@ python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\a
 pip install -r requirements.txt
 python app.py
 
-Plan/Roadmap
+## Plan/Roadmap
  Add a tiny dataset + embeddings
  Compare retrieval (BM25 vs dense)
  Prompt templates + evaluation
